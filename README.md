@@ -48,9 +48,17 @@ para asegurarme de que el pedido sea correcto.
 
 Requerimientos:
 
+RF1. El sistema debe mostrar nombre del producto, cantidad y precio de cada producto en el carrito.
 
+RF2. El sistema debe permitir modificar la cantidad de un producto dentro del carrito.
 
+RF3. El sistema debe permitir eliminar productos del carrito.
 
+RF4. El sistema debe mostrar el precio total del pedido actualizado automáticamente.
+
+RF5. El sistema debe permitir confirmar o cancelar el pedido antes de enviarlo.
+
+RF6. El sistema debe validar que el carrito no esté vacío antes de enviar el pedido.
 
 
 link diagrama de user flow: [HU2.pdf](https://github.com/user-attachments/files/25876149/HU2.pdf)
@@ -63,6 +71,34 @@ Como estudiante quiero consultar el menú y la disponibilidad de los platos en l
 para saber si el producto que deseo está disponible antes de hacer un pedido.
 
 Requerimientos:
+
+El sistema debe permitir visualizar el menú de la cafetería.
+
+El sistema debe mostrar nombre, descripción y precio de cada producto del menú.
+
+El sistema debe indicar si un producto está disponible o agotado.
+
+El sistema debe actualizar el estado de disponibilidad de los productos en tiempo real o cuando cambie el inventario.
+
+El sistema debe permitir seleccionar un producto disponible para agregarlo al carrito.
+
+El sistema debe bloquear la selección de productos que estén agotados.El sistema debe permitir visualizar el menú de la cafetería.
+
+El sistema debe mostrar nombre, descripción y precio de cada producto del menú.
+
+El sistema debe indicar si un producto está disponible o agotado.
+
+El sistema debe actualizar el estado de disponibilidad de los productos en tiempo real o cuando cambie el inventario.
+
+El sistema debe permitir seleccionar un producto disponible para agregarlo al carrito.
+
+El sistema debe bloquear la selección de productos que estén agotados.
+
+
+
+
+
+link diagrama de user flow: [HU3.pdf](https://github.com/user-attachments/files/25876326/HU3.pdf)
 
 
 
