@@ -14,6 +14,7 @@ El sistema debe permitir a los estudiantes registrarse e iniciar sesión con su 
 
 RF2 – Visualización del menú
 El sistema debe permitir visualizar el menú de todas las cafeterías y quioscos disponibles.
+
 RF3 – Mostrar disponibilidad de alimentos
 El sistema debe mostrar si un plato está disponible o agotado.
 
@@ -38,6 +39,35 @@ RF9 – Gestión de pedidos para cafeterías
 El personal de cafetería debe poder ver los pedidos entrantes y gestionarlos.
 
 link diagrama de user flow: [HU1.pdf](https://github.com/user-attachments/files/25875988/HU1.pdf)
+
+
+HU2 – Gestionar el carrito antes de enviar el pedido
+Como estudiante
+quiero revisar y gestionar los productos de mi carrito antes de enviar el pedido
+para asegurarme de que el pedido sea correcto.
+
+Requerimientos:
+
+
+
+
+
+
+link diagrama de user flow: [HU2.pdf](https://github.com/user-attachments/files/25876149/HU2.pdf)
+
+
+
+
+HU3 – Consultar disponibilidad del menú.
+Como estudiante quiero consultar el menú y la disponibilidad de los platos en la cafetería
+para saber si el producto que deseo está disponible antes de hacer un pedido.
+
+Requerimientos:
+
+
+
+
+
 
 
 
