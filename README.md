@@ -88,16 +88,40 @@ RF6.El sistema debe bloquear la selección de productos que estén agotados.El s
 link diagrama de user flow: [HU3.pdf](https://github.com/user-attachments/files/25876326/HU3.pdf)
 
 
+
+
 HU4 - Como estudiante quiero ver qué cafeterías están disponibles
 y poder cambiar entre ellas para revisar el menú de la que más me guste antes de pedir.
 
 Requerimientos:
 
+RF1. El sistema debe permitir visualizar la lista de cafeterías disponibles.
 
+RF2. El sistema debe mostrar el nombre de cada cafetería.
 
+RF3. El sistema debe indicar el estado de disponibilidad de cada cafetería (abierta o cerrada).
+
+RF4. El sistema debe permitir seleccionar una cafetería de la lista.
+
+RF5. El sistema debe mostrar el menú correspondiente a la cafetería seleccionada.
+
+RF6. El sistema debe permitir cambiar de una cafetería a otra en cualquier momento antes de realizar el pedido.
+
+RF7. El sistema debe actualizar el menú automáticamente al cambiar de cafetería.
+
+RF8. El sistema debe evitar realizar pedidos en cafeterías que estén cerradas.
 
 
 link diagrama de user flow: [HU4.pdf](https://github.com/user-attachments/files/25876797/HU4.pdf)
+
+
+
+
+Colavoradores:
+
+Vallejo Arango Jhoan Andres
+Castro Lopez Juan Pablo
+Trejos Rojas Jairo Esneider
 
 
 
