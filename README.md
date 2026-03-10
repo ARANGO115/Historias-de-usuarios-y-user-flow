@@ -72,37 +72,32 @@ para saber si el producto que deseo está disponible antes de hacer un pedido.
 
 Requerimientos:
 
-El sistema debe permitir visualizar el menú de la cafetería.
+RF1. El sistema debe permitir visualizar el menú de la cafetería.
 
-El sistema debe mostrar nombre, descripción y precio de cada producto del menú.
+RF2.El sistema debe mostrar nombre, descripción y precio de cada producto del menú.
 
-El sistema debe indicar si un producto está disponible o agotado.
+RF3.El sistema debe indicar si un producto está disponible o agotado.
 
-El sistema debe actualizar el estado de disponibilidad de los productos en tiempo real o cuando cambie el inventario.
+RF4.El sistema debe actualizar el estado de disponibilidad de los productos en tiempo real o cuando cambie el inventario.
 
-El sistema debe permitir seleccionar un producto disponible para agregarlo al carrito.
+RF5.El sistema debe permitir seleccionar un producto disponible para agregarlo al carrito.
 
-El sistema debe bloquear la selección de productos que estén agotados.El sistema debe permitir visualizar el menú de la cafetería.
-
-El sistema debe mostrar nombre, descripción y precio de cada producto del menú.
-
-El sistema debe indicar si un producto está disponible o agotado.
-
-El sistema debe actualizar el estado de disponibilidad de los productos en tiempo real o cuando cambie el inventario.
-
-El sistema debe permitir seleccionar un producto disponible para agregarlo al carrito.
-
-El sistema debe bloquear la selección de productos que estén agotados.
-
-
-
+RF6.El sistema debe bloquear la selección de productos que estén agotados.El sistema debe permitir visualizar el menú de la cafetería.
 
 
 link diagrama de user flow: [HU3.pdf](https://github.com/user-attachments/files/25876326/HU3.pdf)
 
 
+HU4 - Como estudiante quiero ver qué cafeterías están disponibles
+y poder cambiar entre ellas para revisar el menú de la que más me guste antes de pedir.
+
+Requerimientos:
 
 
+
+
+
+link diagrama de user flow: [HU4.pdf](https://github.com/user-attachments/files/25876797/HU4.pdf)
 
 
 
