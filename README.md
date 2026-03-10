@@ -119,9 +119,9 @@ link diagrama de user flow: [HU4.pdf](https://github.com/user-attachments/files/
 
 Colavoradores:
 
-Vallejo Arango Jhoan Andres
-Castro Lopez Juan Pablo
-Trejos Rojas Jairo Esneider
+- Vallejo Arango Jhoan Andres
+- Castro Lopez Juan Pablo
+- Trejos Rojas Jairo Esneider
 
 
 
